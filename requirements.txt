@@ -1,2 +1,5 @@
-yfinance
-aiohttp
+python-telegram-bot
+pandas
+matplotlib
+schedule
+requests
